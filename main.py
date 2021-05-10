@@ -50,7 +50,7 @@ for i in range(20):
 	actions.click(elem)
 	elem.send_keys(otp)
 	elem.send_keys(Keys.RETURN)
-	time.sleep(5)
+	time.sleep(8)
 	elem = driver.find_element_by_xpath('//*[@id="phone"]')
 	actions.move_to_element(elem)
 	actions.click(elem)
