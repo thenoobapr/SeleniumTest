@@ -1,8 +1,11 @@
 # SeleniumTest
+## An email registration program
 
-##**An email registration program** 
 First time otp automation on github
 
-###Requirements
-_pip install selelnium_ and
-_pip install names_
+### Requirements
+`pip install selelnium` and
+`pip install names`
+
+
+And don't forgot to replace the driver path with your chromedriver path.
